@@ -1,3 +1,52 @@
+body {
+  background-color: Ivory;
+}
+h1 {
+  background-color: SlateGrey;
+  padding: 30px;
+  text-align: center;
+  font-family: Arial;
+  font-size: 40px;
+  color: White;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 25px;
+  color: MidnightBlue;
+}
+
+ul {
+  color: Black}
+
+li {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+footer {
+    background-color: MidnightBlue;
+    padding: 10px;
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+    color: white;
+  }
+
+  img {
+
+  border: 10px solid Maroon
+  }
+
+
+
+
+
+
+
+
+
+
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
