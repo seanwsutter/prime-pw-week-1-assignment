@@ -1,6 +1,7 @@
 body {
   background-color: Ivory;
 }
+
 h1 {
   background-color: SlateGrey;
   padding: 30px;
@@ -17,7 +18,8 @@ h2 {
 }
 
 ul {
-  color: Black}
+  color: Black
+}
 
 li {
   font-family: Arial;
@@ -25,16 +27,15 @@ li {
 }
 
 footer {
-    background-color: MidnightBlue;
-    padding: 10px;
-    text-align: center;
-    font-family:cursive;
-    font-size: 30px;
-    color: white;
-  }
+  background-color: MidnightBlue;
+  padding: 10px;
+  text-align: center;
+  font-family:cursive;
+  font-size: 30px;
+  color: white;
+}
 
-  img {
-
+img {
   border: 10px solid Maroon
   }
 
@@ -47,14 +48,4 @@ footer {
 
 
 
-/* Give your page a fun background color */
-
-/* Make the header and footer a different color from the background */
-
-/* Align the h1 containing your name in the center of the header*/
-
-/* Make your p tag a different color and italic */
-
-/* Put a border around your image */
-
-/* Change the font-family of your list */
+/

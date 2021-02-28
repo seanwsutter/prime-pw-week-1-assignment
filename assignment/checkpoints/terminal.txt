@@ -1,29 +1,43 @@
 # Type your responses on a new line
 
-# 1 - What is the command for listing the files in the current folder (directory)?
+#1 - What is the command for listing the files in the current folder (directory)?
 
-ls
+    ls
 
-# 2 - What is the command for changing directories?
+#2 - What is the command for changing directories?
 
-cd
+    cd
+    (change directories)
 
-# 3 - What is the command for going "up" a folder (to a parent directory)?
+#3 - What is the command for going "up" a folder (to a parent directory)?
 
-cd ..
+    cd ..
 
-# 4 - What is a quick way to create a new folder?
+#4 - What is a quick way to create a new folder?
 
-  
+    using the command 'mkdir'
+    (make directory)
 
-# 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+#5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 
-# 6 - What is a quick way to create a new file?
+    If you type the command 'ls' when you in an empty folder nothing happens. When you type 'ls' in a folder containing files it will list the files within the folder
 
-# 7 - Run 'git --version' in your terminal. What is the output?
+#6 - What is a quick way to create a new file?
 
-# 8 - Why would you run the command 'git status'?
+    using the command 'touch'
 
-# 9 - What does the command 'git add .' do?
+#7 - Run 'git --version' in your terminal. What is the output?
 
-# 10 - What is the command to push your committed changes to your repo on GitHub?
+    git version 2.27.0
+
+#8 - Why would you run the command 'git status'?
+
+    It shows if you have made any local changes to the files you have cloned from github
+
+#9 - What does the command 'git add .' do?
+
+    It adds any files to github that you have created on your local machine
+
+#10 - What is the command to push your committed changes to your repo on GitHub?
+
+    git push -u origin master
